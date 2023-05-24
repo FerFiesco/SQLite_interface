@@ -47,10 +47,7 @@ def load_data_from_files(table = "PACE_TABLE",file_path = "",sheet_name=0,action
 
 # Convert the DataFrame to a SQL table
 
-
 def create_file(full_file_text,file_type='xlsx'):
-    
-
     for file_text in full_file_text.split('---separator---'):
         if file_text.strip():
             #print(file_text)

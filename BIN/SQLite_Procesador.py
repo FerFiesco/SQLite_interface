@@ -3,11 +3,8 @@ import pandas as pd
 from tkinter import filedialog
 from tkinter import messagebox as msg
 import os
-import csv
-import datetime
 import tkinter as tk
 from tkinter import scrolledtext
-import re
 from subprocess import run
 
 run_path=os.getcwd()
