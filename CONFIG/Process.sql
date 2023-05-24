@@ -1,0 +1,2 @@
+--Aqui se puede colocar todo el procesamiento que se necesita sobre las tablas importadas
+--Consultas SQL, creacion denuevas tabalas o vistas
